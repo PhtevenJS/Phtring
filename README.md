@@ -13,4 +13,4 @@ require('phtevenjs-phtring').regiphter(); // Would regiphter all functionph
 
 ## Travis
 
-[![Travis Status](https://travis-ci.org/phtevenjs/phtring.svg?branch=master)](https://travis-ci.org/phtevenjs/phtring)
+[![Travis Status](https://travis-ci.org/Phtevenjs/Phtring.svg?branch=master)](https://travis-ci.org/Phtevenjs/Phtring)
