@@ -1,0 +1,28 @@
+{
+  "name": "phtevenjs-phtring",
+  "version": "0.0.1",
+  "description": "String utils for JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhtevenJS/Phtring.git"
+  },
+  "keywords": [
+    "String",
+    "Replace"
+  ],
+  "author": "Kinn Coelho Juliao <kinncj@php.net>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/PhtevenJS/Phtring/issues"
+  },
+  "homepage": "https://github.com/PhtevenJS/Phtring#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.5"
+  }
+}
